@@ -1,4 +1,6 @@
 <h1>Federico Contardo</h1>
+<h2>Developer and Designer</h2>
+<h4>From Buenos Aires - Argentina for the entire world</h4>
 
 
 <!--                                                                                                                              -->
